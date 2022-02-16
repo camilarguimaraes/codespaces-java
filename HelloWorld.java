@@ -1,9 +1,9 @@
-class HelloWorld // classe
+public class HelloWorld // classe
 {
     public static void main(String args[])
     {
 
-        String nome = "Gathon";
+        String nome = "Camila";
 
         System.out.println("Oi " + nome);
     
